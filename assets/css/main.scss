@@ -490,6 +490,13 @@ footer {
   }
 }
 
+// IMAGES
+img.photo {
+  max-width: 100%;
+  height: auto;
+  border: 1px solid $gray-dark;
+}
+
 // BREAKPOINTS
 @import "partials/_breakpoints";
 @import "custom";
