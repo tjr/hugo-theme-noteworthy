@@ -81,3 +81,14 @@ googleAnalytics = ""
 ## License
 
 Released under the [MIT License](https://github.com/kimcc/hugo-theme-noteworthy/blob/master/LICENSE.md).
+
+
+## TJR Modifications to Noteworthy
+Github user [tjr](https://github.com/tjr/) forked the original theme project in order
+to maintain a copy with some personalized modifications.
+
+The Charter font added is distributed under its own license, included with this fork.
+
+The Fira Sans font added is dstributed under its own license, included with this fork.
+
+All other code changes continue to be under the original project's MIT License.

@@ -30,3 +30,25 @@
     font-weight: 700;
     font-display: fallback;
 }
+
+@font-face {
+  font-family: Charter;
+  src: url(../fonts/charter_regular-webfont.woff);
+  font-weight: 400;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: Charter;
+  src: url(../fonts/charter_italic-webfont.woff);
+  font-weight: 400;
+  font-style: italic;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: FiraSans;
+  src: url(../fonts/FiraSans-Medium.woff);
+  font-weight: 500;
+  font-display: fallback;
+}
